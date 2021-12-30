@@ -1,0 +1,24 @@
+*{
+    background-color: black;
+}
+
+.CARRU{
+    width: 1300px !important;
+    width: 100%;
+}
+
+.LOG{
+    height: 10%;
+    width: 10%;
+}
+.CLUB{
+    width: 50%;
+    height: 70%;
+}
+
+.MARG{
+    margin: 50px;
+}
+.BLA{
+    color: white !important;
+}
